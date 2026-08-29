@@ -1,0 +1,4 @@
+1. Repository successfully initialized
+2. Website files extracted and organized
+3. Documentation created
+4. Ready for custom domain: www.mbhoyienterprises.co.za
