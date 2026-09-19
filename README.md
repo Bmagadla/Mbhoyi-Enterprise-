@@ -1,30 +1,9 @@
-# Mbhoyi Enterprise
+# Mbhoyi Enterprise website — GitHub upload guide
 
-Official website for Mbhoyi Enterprise.
+Upload the **contents of this folder** into the root of your GitHub Pages repository (`index.html`, `styles.css`, `script.js`, `README.md`, `LOGO_README.md`, and `assets/`). Keep the `assets/` directory and exact filenames. The contact email in `index.html` and all its `mailto:` links is `admin@mbhoyienterprises.co.za`.
 
-## Services
+The contact form currently uses `mailto:` and opens the visitor’s email application; it is **not** a hosted form service. Test it on your device and add a form backend if you need in-browser submissions.
 
-- General building and renovations
-- Paving
-- Vinyl flooring
-- Epoxy flooring
-- Tiling
-- Electrical building works
-- General supply
+The website gallery displays six images from `assets/`. Two extra illustrative detail images are included for later use. All eight images are AI-generated illustrations, not completed Mbhoyi projects. Replace them with genuine project photos when available.
 
-## Website
-
-Visit: https://www.mbhoyienterprises.co.za
-
-## Technology
-
-This website uses:
-
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
-
-## Contact
-
-Email: zimasamnunu@gmail.com
+See `LOGO_README.md` for logo upload and replacement instructions.
